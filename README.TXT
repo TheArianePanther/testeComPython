@@ -1,0 +1,2 @@
+
+O código implementa uma função chamada realizar_operacoes que recebe dois valores como entrada e retorna a soma, subtração, multiplicação e divisão desses valores. A divisão por zero é tratada de forma especial, retornando "infinito positivo" se o primeiro valor for positivo, "infinito negativo" se for negativo e "indefinido" se for zero. A função permite realizar várias operações de uma só vez e lida corretamente com casos especiais.
